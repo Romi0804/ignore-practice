@@ -1,2 +1,7 @@
 # ignore-practice
-Learn gitignore
+Learn gitignor
+
+## Contents
+- What is gitignore?
+- How to ignore files of folders
+
