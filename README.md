@@ -1,0 +1,2 @@
+# ignore-practice
+Learn gitignore
